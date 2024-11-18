@@ -40,3 +40,15 @@
 2024-11-18 08:45:45,182 - INFO - START synchronization cycle.
 2024-11-18 08:45:45,183 - INFO - END Synchronization cycle.
 2024-11-18 08:45:49,008 - INFO - TERMINATED Synchronization by user.
+2024-11-18 21:10:20,664 - INFO - PERIODIC synchronization start: files/source/ -> files/replica/
+2024-11-18 21:10:20,666 - INFO - INTERVAL of synchronization: 15 seconds
+2024-11-18 21:10:20,666 - INFO - START synchronization cycle.
+2024-11-18 21:10:20,667 - INFO - Copied file: files/source/abcd.txt to files/replica/abcd.txt
+2024-11-18 21:10:20,668 - INFO - Copied file: files/source/hhh_123.txt to files/replica/hhh_123.txt
+2024-11-18 21:10:20,669 - INFO - Copied file: files/source/lkjlks.txt to files/replica/lkjlks.txt
+2024-11-18 21:10:20,669 - INFO - END Synchronization cycle.
+2024-11-18 21:10:35,669 - INFO - START synchronization cycle.
+2024-11-18 21:10:35,671 - INFO - END Synchronization cycle.
+2024-11-18 21:10:50,671 - INFO - START synchronization cycle.
+2024-11-18 21:10:50,673 - INFO - END Synchronization cycle.
+2024-11-18 21:11:00,614 - INFO - TERMINATED Synchronization by user.
